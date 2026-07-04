@@ -30,9 +30,9 @@ python scripts/batch_extract.py <xhs-json-file> <output-dir> [whisper-model]
 
 ## 当前状态
 
-- 已蒸馏 episode 数：3（EP01、EP04、EP06）
+- 已蒸馏 episode 数：11（EP01-EP11，全部覆盖）
 - playbook 章节：12 章
-- 原始视频数：11 条（6 条已转录）
+- 原始视频数：11 条（全部转录完成）
 - 数据来源：2026-07-04 导出
 
 ## 依赖
