@@ -1,0 +1,6 @@
+# 原始素材（视频、音频、截帧）— 可通过脚本重新生成
+raw/videos/*/video.mp4
+raw/videos/*/audio.wav
+raw/videos/*/frames/
+
+# 保留 transcript.txt 和 metadata.json
