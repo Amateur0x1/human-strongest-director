@@ -3,4 +3,4 @@ raw/videos/*/video.mp4
 raw/videos/*/audio.wav
 raw/videos/*/frames/
 
-# 保留 transcript.txt 和 metadata.json
+# 保留 transcript.txt、metadata.json 和 xhs JSON 导出
